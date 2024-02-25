@@ -1,0 +1,1 @@
+Program to transform an automata to a regular expression using done through the state elimination method.

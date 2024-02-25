@@ -1,0 +1,7 @@
+﻿  Automata.cpp
+C:\Users\Mafia\Desktop\Facultate Semestrul 2\ACC\Proiect ACC\AutomataToRegex\AutomataToRegex\Automata.cpp(142,38): warning C4566: character represented by universal-character-name '\u03B5' cannot be represented in the current code page (1252)
+C:\Users\Mafia\Desktop\Facultate Semestrul 2\ACC\Proiect ACC\AutomataToRegex\AutomataToRegex\Automata.cpp(154,35): warning C4566: character represented by universal-character-name '\u03B5' cannot be represented in the current code page (1252)
+  Source.cpp
+C:\Users\Mafia\Desktop\Facultate Semestrul 2\ACC\Proiect ACC\AutomataToRegex\AutomataToRegex\Source.cpp(2,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  AutomataToRegex.vcxproj -> C:\Users\Mafia\Desktop\Facultate Semestrul 2\ACC\Proiect ACC\AutomataToRegex\x64\Debug\AutomataToRegex.exe
