@@ -1,1 +1,1 @@
-# dfaToRegex
+# AutomataToRegex
